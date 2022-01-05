@@ -1,0 +1,1 @@
+cmd_/home/yash/Desktop/WORK/DAY/29nov_test1/Driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/yash/Desktop/WORK/DAY/29nov_test1/Driver.ko /home/yash/Desktop/WORK/DAY/29nov_test1/Driver.o /home/yash/Desktop/WORK/DAY/29nov_test1/Driver.mod.o;  true

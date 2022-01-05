@@ -1,0 +1,1 @@
+cmd_/home/yash/Desktop/cdd/driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/yash/Desktop/cdd/driver.ko /home/yash/Desktop/cdd/driver.o /home/yash/Desktop/cdd/driver.mod.o;  true
